@@ -1,4 +1,4 @@
 ## Workshop
-# FRIST LSAT
+# Michelle Chen
 ## sidekick: DUCKIENAME
-### SoftDev 2025-2027
+### SoftDev 2025-2026
